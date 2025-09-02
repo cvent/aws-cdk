@@ -137,7 +137,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "@types/lodash": "^4.14.149",
-    "@types/nodeunit": "^0.0.30",
+    "@types/nodeunit": "^0.0.36",
     "cdk-build-tools": "0.0.0",
     "cfn2ts": "0.0.0",
     "fast-check": "^1.22.2",
