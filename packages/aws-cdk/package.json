@@ -46,7 +46,7 @@
     "@types/glob": "^7.1.1",
     "@types/jest": "^25.1.4",
     "@types/minimatch": "^3.0.3",
-    "@types/mockery": "^1.4.29",
+    "@types/mockery": "^1.4.33",
     "@types/node": "^10.17.17",
     "@types/promptly": "^3.0.0",
     "@types/semver": "^7.1.0",
