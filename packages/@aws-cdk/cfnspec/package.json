@@ -31,7 +31,7 @@
     "json-diff": "^0.5.4",
     "nodeunit": "^0.11.3",
     "pkglint": "0.0.0",
-    "sort-json": "^2.0.0"
+    "sort-json": "^2.0.1"
   },
   "dependencies": {
     "md5": "^2.2.1"
